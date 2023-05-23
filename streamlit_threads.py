@@ -37,7 +37,9 @@ with st.sidebar.expander("About me"):
 
 contplot = st.container()
 
-daterange = st.slider("Select Date Range",dt.datetime(2023,4,18,0,0,0),dt.datetime(2023,5,30,0,0,0),(dt.datetime(2023,4,18,0,0,0),dt.datetime(2023,5,21,0,0,0)))
+today = dt.datetime.combine(dt.date.today(),dt.time(0,0,0))
+
+daterange = st.slider("Select Date Range",dt.datetime(2023,4,18,0,0,0),dt.datetime(2023,5,30,0,0,0),(dt.datetime(2023,4,18,0,0,0),today))#dt.datetime(2023,5,21,0,0,0)))
 
 timecol1, timecol2 = st.columns(2)
 with timecol1:
