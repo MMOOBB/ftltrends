@@ -22,15 +22,7 @@ custom_names = st.sidebar.text_input("Comma separated")
 topword_count = st.sidebar.number_input("Top words",value=10, step=1)
 topmedia_count = st.sidebar.number_input("Top media",value=10, step=1)
 
-button1 = st.sidebar.button("Get Updated Threads", on_click = updatethreadreplies)
-
-def delall():
-    cont = os.listdir("data")
-    for i in cont:
-        os.remove(f"data/{i}")
-
-button2 = st.sidebar.button("Regenerate Data", on_click = delall)
-
+st.sidebar.button("Regenerate Data")
 
 with st.sidebar.expander("About me"):
     st.write("If you would like to reach out for questions/suggestions, contact me at:")

@@ -2,6 +2,7 @@ import requests
 import csv
 import json
 from time import sleep
+import datetime as dt
 
 def updatereplies(threads):
     for thread in threads:
@@ -13,13 +14,13 @@ def updatereplies(threads):
                 jdata = json.loads(page.text)
                 print(jdata[str(thread)]["op"]["title"])
             except:
-                sleep(5)
+                sleep(1)
                 continue
             break
-        remove = ["board","capcode","comment_processed","comment_sanitized","deleted","doc_id","email","email_processed","exif","extra_data","formatted","locked","name_processed","nimages","nreplies","poster_country","poster_country_name","poster_country_name_processed","poster_hash","poster_hash_processed","since4pass","sticky","subnum","timestamp_expired","title_processed","trip_processed","troll_country_code","troll_country_name","op"]
+        remove = ["board","capcode","comment_processed","comment_sanitized","deleted","doc_id","email","email_processed","exif","extra_data","formatted","locked","name_processed","nimages","nreplies","poster_country","poster_country_name","poster_country_name_processed","poster_hash","poster_hash_processed","since4pass","sticky","subnum","timestamp_expired","title_processed","trip_processed","troll_country_code","troll_country_name","op", "fourchan_date","thread_num","num"]
         for rem in remove:
             jdata[str(thread)]["op"].pop(rem)
-        mremove = ["banned","exif","media_filename_processed","media_h","media_size","media_status","media_w","ocr","ocr_processed","preview_h","preview_op","preview_orig","preview_reply","preview_w","remote_media_link","spoiler","thumb_link","total"]
+        mremove = ["banned","exif","media_filename_processed","media_h","media_size","media_status","media_w","ocr","ocr_processed","preview_h","preview_op","preview_orig","preview_reply","preview_w","remote_media_link","spoiler","thumb_link","total", "media_hash","media_id","media_orig"]
         for mrem in mremove:
             jdata[str(thread)]["op"]["media"].pop(mrem)
         num_media = 0
@@ -48,10 +49,10 @@ def updatereplies(threads):
         json_obj = json.dumps(jdata, sort_keys=True, indent=4)
         with open(f"threads/{thread}","w") as file:
             file.write(json_obj)
-        sleep(10)
+        sleep(1)
 
 if __name__ == "__main__":
-    with open("randothreads",'r') as data:
+    with open("nnewfishtankthreads.csv",'r') as data:
         ldata = csv.reader(data)
         threads_list=[]
         for i in ldata:

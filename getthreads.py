@@ -5,8 +5,8 @@ import json
 from time import sleep
 
 page = 1
-start = "2023-05-18"
-end = "2023-05-19"
+start = "2023-05-19"
+end = "2023-05-22"
 
 while True:
     link=f'https://archive.4plebs.org/_/api/chan/search/?boards=tv&start={start}&end={end}&subject=ftl%7Cfish&type=op&page={page}'

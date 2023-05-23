@@ -34,7 +34,8 @@ def updatedthreads(start, end):
                 new_threads.append(i["num"])
             else:
                 rollover += 1
-                if rollover > 5:
+                new_threads.append(i["num"])
+                if rollover > 3:
                     return new_threads
         page+=1
     return new_threads
@@ -42,5 +43,6 @@ def updatedthreads(start, end):
 def updatethreadreplies():
     updatereplies(updatedthreads("2023-04-18","2023-05-30"))
 
-#if __name__ == "__main__":
-#    print(updatedthreads(start,end))
+if __name__ == "__main__":
+    new_threads = updatedthreads("2023-04-18","2023-05-30")
+    updatereplies(new_threads)

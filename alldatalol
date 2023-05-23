@@ -1,0 +1,342 @@
+{
+    "2023-04-18 00:00:00": {
+        "Josie": 462,
+        "Jon": 23,
+        "Letty": 57,
+        "Vance": 278,
+        "Sylvia": 55,
+        "Damiel": 274,
+        "Mauro": 56,
+        "Simmons": 88
+    },
+    "2023-04-19 00:00:00": {
+        "Josie": 2053,
+        "Jon": 2159,
+        "Letty": 674,
+        "Vance": 671,
+        "Sylvia": 468,
+        "Damiel": 977,
+        "Mauro": 251,
+        "Simmons": 576
+    },
+    "2023-04-20 00:00:00": {
+        "Josie": 1370,
+        "Jon": 1411,
+        "Letty": 918,
+        "Vance": 524,
+        "Sylvia": 248,
+        "Damiel": 743,
+        "Mauro": 231,
+        "Simmons": 827
+    },
+    "2023-04-21 00:00:00": {
+        "Josie": 1240,
+        "Jon": 1446,
+        "Letty": 1312,
+        "Vance": 578,
+        "Sylvia": 286,
+        "Damiel": 448,
+        "Mauro": 336,
+        "Simmons": 465
+    },
+    "2023-04-22 00:00:00": {
+        "Josie": 1476,
+        "Jon": 1766,
+        "Letty": 1419,
+        "Vance": 829,
+        "Sylvia": 365,
+        "Damiel": 930,
+        "Mauro": 560,
+        "Simmons": 814
+    },
+    "2023-04-23 00:00:00": {
+        "Josie": 1962,
+        "Jon": 3370,
+        "Letty": 1608,
+        "Vance": 1065,
+        "Sylvia": 573,
+        "Damiel": 1432,
+        "Mauro": 639,
+        "Simmons": 1317
+    },
+    "2023-04-24 00:00:00": {
+        "Josie": 1796,
+        "Jon": 5362,
+        "Letty": 1486,
+        "Vance": 1221,
+        "Sylvia": 438,
+        "Damiel": 2332,
+        "Mauro": 643,
+        "Simmons": 1030
+    },
+    "2023-04-25 00:00:00": {
+        "Josie": 2069,
+        "Jon": 4423,
+        "Letty": 2058,
+        "Vance": 1694,
+        "Sylvia": 409,
+        "Damiel": 1149,
+        "Mauro": 770,
+        "Simmons": 1736
+    },
+    "2023-04-26 00:00:00": {
+        "Josie": 1818,
+        "Jon": 4504,
+        "Letty": 2582,
+        "Vance": 2150,
+        "Sylvia": 712,
+        "Damiel": 1364,
+        "Mauro": 1539,
+        "Simmons": 3016
+    },
+    "2023-04-27 00:00:00": {
+        "Josie": 1454,
+        "Jon": 3876,
+        "Letty": 1577,
+        "Vance": 949,
+        "Sylvia": 591,
+        "Damiel": 806,
+        "Mauro": 598,
+        "Simmons": 1980
+    },
+    "2023-04-28 00:00:00": {
+        "Josie": 1721,
+        "Jon": 2522,
+        "Letty": 1346,
+        "Vance": 887,
+        "Sylvia": 473,
+        "Damiel": 692,
+        "Mauro": 212,
+        "Simmons": 773
+    },
+    "2023-04-29 00:00:00": {
+        "Josie": 1276,
+        "Jon": 1542,
+        "Letty": 1479,
+        "Vance": 722,
+        "Sylvia": 566,
+        "Damiel": 535,
+        "Mauro": 176,
+        "Simmons": 814
+    },
+    "2023-04-30 00:00:00": {
+        "Josie": 1354,
+        "Jon": 2210,
+        "Letty": 2384,
+        "Vance": 1045,
+        "Sylvia": 495,
+        "Damiel": 632,
+        "Mauro": 159,
+        "Simmons": 431
+    },
+    "2023-05-01 00:00:00": {
+        "Josie": 1678,
+        "Jon": 1846,
+        "Letty": 1758,
+        "Vance": 1291,
+        "Sylvia": 529,
+        "Damiel": 836,
+        "Mauro": 115,
+        "Simmons": 347
+    },
+    "2023-05-02 00:00:00": {
+        "Josie": 1603,
+        "Jon": 3546,
+        "Letty": 1797,
+        "Vance": 776,
+        "Sylvia": 556,
+        "Damiel": 1068,
+        "Mauro": 118,
+        "Simmons": 375
+    },
+    "2023-05-03 00:00:00": {
+        "Josie": 1307,
+        "Jon": 2587,
+        "Letty": 1622,
+        "Vance": 833,
+        "Sylvia": 476,
+        "Damiel": 753,
+        "Mauro": 84,
+        "Simmons": 215
+    },
+    "2023-05-04 00:00:00": {
+        "Josie": 1635,
+        "Jon": 1415,
+        "Letty": 1631,
+        "Vance": 831,
+        "Sylvia": 569,
+        "Damiel": 594,
+        "Mauro": 44,
+        "Simmons": 310
+    },
+    "2023-05-05 00:00:00": {
+        "Josie": 1924,
+        "Jon": 755,
+        "Letty": 2873,
+        "Vance": 870,
+        "Sylvia": 1192,
+        "Damiel": 1876,
+        "Mauro": 55,
+        "Simmons": 273
+    },
+    "2023-05-06 00:00:00": {
+        "Josie": 1585,
+        "Jon": 569,
+        "Letty": 2230,
+        "Vance": 908,
+        "Sylvia": 1107,
+        "Damiel": 905,
+        "Mauro": 64,
+        "Simmons": 132
+    },
+    "2023-05-07 00:00:00": {
+        "Josie": 2438,
+        "Jon": 579,
+        "Letty": 2625,
+        "Vance": 1006,
+        "Sylvia": 746,
+        "Damiel": 1956,
+        "Mauro": 73,
+        "Simmons": 121
+    },
+    "2023-05-08 00:00:00": {
+        "Josie": 2280,
+        "Jon": 492,
+        "Letty": 2074,
+        "Vance": 850,
+        "Sylvia": 744,
+        "Damiel": 555,
+        "Mauro": 46,
+        "Simmons": 122
+    },
+    "2023-05-09 00:00:00": {
+        "Josie": 2224,
+        "Jon": 292,
+        "Letty": 2559,
+        "Vance": 760,
+        "Sylvia": 738,
+        "Damiel": 289,
+        "Mauro": 57,
+        "Simmons": 126
+    },
+    "2023-05-10 00:00:00": {
+        "Josie": 1793,
+        "Jon": 348,
+        "Letty": 2583,
+        "Vance": 1224,
+        "Sylvia": 712,
+        "Damiel": 278,
+        "Mauro": 55,
+        "Simmons": 136
+    },
+    "2023-05-11 00:00:00": {
+        "Josie": 2206,
+        "Jon": 384,
+        "Letty": 2182,
+        "Vance": 836,
+        "Sylvia": 1571,
+        "Damiel": 202,
+        "Mauro": 49,
+        "Simmons": 85
+    },
+    "2023-05-12 00:00:00": {
+        "Josie": 1617,
+        "Jon": 339,
+        "Letty": 2561,
+        "Vance": 947,
+        "Sylvia": 855,
+        "Damiel": 164,
+        "Mauro": 51,
+        "Simmons": 100
+    },
+    "2023-05-13 00:00:00": {
+        "Josie": 2035,
+        "Jon": 234,
+        "Letty": 2302,
+        "Vance": 1413,
+        "Sylvia": 780,
+        "Damiel": 106,
+        "Mauro": 36,
+        "Simmons": 73
+    },
+    "2023-05-14 00:00:00": {
+        "Josie": 1900,
+        "Jon": 207,
+        "Letty": 2314,
+        "Vance": 664,
+        "Sylvia": 836,
+        "Damiel": 161,
+        "Mauro": 50,
+        "Simmons": 53
+    },
+    "2023-05-15 00:00:00": {
+        "Josie": 1616,
+        "Jon": 181,
+        "Letty": 1385,
+        "Vance": 528,
+        "Sylvia": 467,
+        "Damiel": 101,
+        "Mauro": 23,
+        "Simmons": 29
+    },
+    "2023-05-16 00:00:00": {
+        "Josie": 1589,
+        "Jon": 252,
+        "Letty": 2112,
+        "Vance": 470,
+        "Sylvia": 370,
+        "Damiel": 140,
+        "Mauro": 330,
+        "Simmons": 115
+    },
+    "2023-05-17 00:00:00": {
+        "Josie": 2499,
+        "Jon": 241,
+        "Letty": 3030,
+        "Vance": 826,
+        "Sylvia": 776,
+        "Damiel": 200,
+        "Mauro": 492,
+        "Simmons": 84
+    },
+    "2023-05-18 00:00:00": {
+        "Josie": 1867,
+        "Jon": 207,
+        "Letty": 2605,
+        "Vance": 746,
+        "Sylvia": 1034,
+        "Damiel": 150,
+        "Mauro": 321,
+        "Simmons": 77
+    },
+    "2023-05-19 00:00:00": {
+        "Josie": 1682,
+        "Jon": 196,
+        "Letty": 2295,
+        "Vance": 732,
+        "Sylvia": 298,
+        "Damiel": 186,
+        "Mauro": 803,
+        "Simmons": 43
+    },
+    "2023-05-20 00:00:00": {
+        "Josie": 2042,
+        "Jon": 250,
+        "Letty": 2694,
+        "Vance": 1259,
+        "Sylvia": 198,
+        "Damiel": 131,
+        "Mauro": 1847,
+        "Simmons": 93
+    },
+    "2023-05-21 00:00:00": {
+        "Josie": 4,
+        "Jon": 0,
+        "Letty": 2,
+        "Vance": 2,
+        "Sylvia": 0,
+        "Damiel": 0,
+        "Mauro": 0,
+        "Simmons": 0
+    }
+}
